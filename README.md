@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/anerpeco/interactiv-rating-component]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://interactiv-rating-component.vercel.app/]
 
 ## My process
 
